@@ -4,4 +4,4 @@ The Sieve of Eratosthenes is a classical algorithm for finding all prime numbers
 - Going the sequential approach
 - Using OpenMP for parallel execution
 
-Using OpenMP, I got it to run approximately 2.5x faster than the sequential approach
+Using OpenMP, I got it to run approximately 1.5x - 1.7x faster than the sequential approach
